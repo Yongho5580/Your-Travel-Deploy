@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/Your-Travel",
+  pathPrefix: "/Your-Travel-Deploy",
   siteMetadata: {
     title: `Your Travel`,
     description: `최고의 여행지를 보여주는 여행 웹사이트`,
