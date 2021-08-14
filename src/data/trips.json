@@ -1,0 +1,30 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "France, Paris",
+        "name": "Paris",
+        "button": "더보기",
+        "url":"https://ko.parisinfo.com/"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "London, Big Ben",
+        "name": "London",
+        "button": "더보기",
+        "url":"https://www.london.gov.uk/"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Italy, Rome",
+        "name": "Rome",
+        "button": "더보기",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "Japan, Tokyo",
+        "name": "Tokyo",
+        "button": "더보기",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8F%84%EC%BF%84"
+    }
+]
