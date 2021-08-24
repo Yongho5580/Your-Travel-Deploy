@@ -17,3 +17,13 @@ Your-Travel은 Gatsby를 중심으로 React, Styled-Component로 개발된 정�
 ### Deploy
 ![](https://img.shields.io/badge/Github_Pages-14191E?style=for-the-badge&logo=Github)
 
+## Goals 
+
+1. Gatsby 개발 환경 구축
+
+2. Hero 섹션에 Background Video 삽입 및 반응형 폰트 구축
+
+3. Comment 섹션에 Material UI 삽입, Display grid 사용
+
+4. 각 섹션 데이터들은 data 폴더에 따로 보관
+
